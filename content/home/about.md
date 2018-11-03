@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-   "Homelessness, Poverty, & Social Inequality "
+   "Homelessness, Poverty, & Social Inequality",
    "Policing & Mass Incarceration",
-   "Stereotyping, Prejudice, & Discrimination",
+   "Stereotyping, Prejudice, & Discrimination"
     
   ]
 
