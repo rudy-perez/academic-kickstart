@@ -14,7 +14,6 @@ weight = 5
    "Policing & Mass Incarceration",
    "Stereotyping, Prejudice, & Discrimination",
     
-    
   ]
 
 # List your qualifications (such as academic degrees).
