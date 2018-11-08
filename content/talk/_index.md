@@ -1,8 +1,8 @@
 +++
-title = "Recent & Upcoming Talks"
-date = 2017-01-01T00:00:00
-math = false
-highlight = false
+# title = "Recent & Upcoming Talks"
+# date = 2017-01-01T00:00:00
+# math = false
+# highlight = false
 
 # List format.
 #   0 = Simple
@@ -10,7 +10,7 @@ highlight = false
 list_format = 0
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+# [header]
+# image = ""
+# caption = ""
 +++
