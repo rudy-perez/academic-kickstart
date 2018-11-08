@@ -15,5 +15,4 @@ list_format = 3
 [header]
 image = ""
 caption = ""
-
 +++
