@@ -26,4 +26,4 @@ weight = 5
 
 # Biography
 
-Hi! Thanks for stopping by my website. My name is Rudy Perez and I am currently a research assistant II with the University of Texas School of Public Health studying interventions for reducing homelessness and reincarceration among homeless adults. On my spare time, I enjoy going for walks, riding my bike, reading a book, and having interesting conversations.
+Hi! Thanks for stopping by my website. My name is Rudy Perez and I am currently a research assistant II with the University of Texas School of Public Health studying interventions for reducing homelessness and reincarceration amongst homeless adults. On my spare time, I enjoy going for walks, riding my bike, reading a book, and having interesting conversations.
