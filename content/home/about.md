@@ -10,7 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-   "Homelessness, Poverty, & Social Inequality",
+   "Poverty, & Inequality",
+   "Intergroup Relations",
    "Policing & Mass Incarceration",
    "Stereotyping, Prejudice, & Discrimination"
     
@@ -26,4 +27,4 @@ weight = 5
 
 # Biography
 
-Hi! Thanks for stopping by my website. My name is Rudy Perez and I am currently a research assistant II with the University of Texas School of Public Health studying interventions for reducing homelessness and reincarceration amongst homeless adults. On my spare time, I enjoy going for walks, riding my bike, reading a book, and having interesting conversations.
+Hi! Thanks for stopping by my website. My name is Rudy Perez and I am currently a research coordinator at Rice University studying human cooperation and conflict. On my spare time, I enjoy going for walks, riding my bike, reading a book, and having interesting conversations.
