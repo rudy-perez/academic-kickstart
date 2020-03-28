@@ -27,4 +27,4 @@ weight = 5
 
 # Biography
 
-Hi! Thanks for stopping by my website. My name is Rudy Perez and I am currently a research analyst at The Urban Institute researching topics to policing and community safety and case processing and decision-making. On my spare time, I enjoy going for walks, riding my bike, reading a book, and having interesting conversations.
+Hi! Thanks for stopping by my website. My name is Rudy Perez and I am currently a research analyst at The Urban Institute's Justice Policy Center researching topics related to policing and community safety and case processing and decision-making. On my spare time, I enjoy going for walks, riding my bike, reading a book, and having interesting conversations.
