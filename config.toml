@@ -58,15 +58,15 @@ enableGitInfo = false
 
   # Your details.
   name = "Rudy Perez"
-  role = "Research Coordinator"
+  role = "Research Research Analyst"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Rice University", url = "" } ]
+  organizations = [ { name = "The Urban Institute", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "RudyPerez1681crop.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "rudyperez@rice.edu"
+  email = "rperez@urban.org"
   address = ""
   office_hours = ""
   phone = ""
@@ -227,7 +227,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:rodolfo.a.perez@uth.tmc.edu"
+    link = "mailto:rperez@urban.org"
 
   [[params.social]]
     icon = "twitter"
