@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-   "Intergroup Relations",
+   "Cognitive Bias & Implicit Bias",
    "Stereotyping, Prejudice, & Discrimination",
    "Policing & Mass Incarceration",
    "Poverty and Inequality"
